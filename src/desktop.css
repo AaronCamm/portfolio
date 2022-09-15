@@ -1,0 +1,20 @@
+.desktop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    outline: 2px solid white;
+    height: 96vh;
+}
+
+.dragger {
+    cursor: pointer;
+}
+
+label {
+    cursor: pointer;
+}
+
+.terminalIcon {
+    color: white;
+}
